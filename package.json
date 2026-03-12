@@ -1,7 +1,7 @@
 {
-  "name": "proj_analytics_presidencia",
+  "name": "proj-analytics-presidencia",
   "version": "1.0.0",
-  "description": "",
+  "description": "Plataforma de análisis estadístico de resultados electorales presidenciales de Colombia - Arquitectura Hexagonal",
   "private": true,
   "scripts": {
     "dev": "next dev",
