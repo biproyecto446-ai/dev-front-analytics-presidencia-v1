@@ -1,0 +1,13 @@
+export { ChartPartidos } from "./ChartPartidos";
+export { ChartPiePartidos } from "./ChartPiePartidos";
+export { ChartDepartamentos } from "./ChartDepartamentos";
+export { ChartEvolucion } from "./ChartEvolucion";
+export { ChartVueltas } from "./ChartVueltas";
+export { TableMunicipios } from "./TableMunicipios";
+export { TablePartidos } from "./TablePartidos";
+export { TopDepartamentos } from "./TopDepartamentos";
+export { TopMunicipios } from "./TopMunicipios";
+export { ComparativoAnios } from "./ComparativoAnios";
+export { DominanciaTable } from "./DominanciaTable";
+export { ConcentracionTable } from "./ConcentracionTable";
+export { HeadToHead } from "./HeadToHead";
